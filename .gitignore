@@ -1,0 +1,8 @@
+node_modules/
+.pnpm-store/
+dist/
+output/
+.DS_Store
+*.tsbuildinfo
+test-results/
+.env*

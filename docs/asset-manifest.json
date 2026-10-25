@@ -1,0 +1,756 @@
+[
+  {
+    "id": "arrowLeft",
+    "sourceNode": "2020:8829",
+    "path": "assets/arrowLeft.svg",
+    "bytes": 640,
+    "note": "Original transparent vector layer, not the component exhibition render",
+    "sha256": "e61777785cfe4c34fd76ac63d867d2e00230c88d7ad35e3a34f4673d67f4f101",
+    "svgRoot": "<svg preserveAspectRatio=\"none\" overflow=\"visible\" style=\"display: block;\" width=\"56\" height=\"60\" viewBox=\"0 0 56 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "boy",
+    "path": "assets/boy.png",
+    "figmaNode": "2413:27266",
+    "contextVariable": "imgPng",
+    "bytes": 1859139,
+    "sha256": "c44450ef7d450c7e620a6d3b887b8dae63ca0bcefa0eebc9c5cd78de9fb7d4d5",
+    "width": 1024,
+    "height": 1536,
+    "alpha": true
+  },
+  {
+    "id": "buttonBackground",
+    "path": "assets/buttonBackground.svg",
+    "bytes": 4056,
+    "sha256": "0fb7c6552a67881a9b8198d414dbe4564c85e647356e2af590603e87debe14e6",
+    "svgRoot": "<svg preserveAspectRatio=\"none\" overflow=\"visible\" style=\"display: block;\" width=\"303.023\" height=\"105.055\" viewBox=\"0 0 303.023 105.055\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">",
+    "figmaNode": "2009:4456"
+  },
+  {
+    "id": "camera",
+    "sourceNode": "2340:12300",
+    "path": "assets/camera.svg",
+    "bytes": 1609,
+    "note": "Original transparent vector layer, not the component exhibition render",
+    "sha256": "5754a18543823d1575c7a8699728859fb7f6c600c3f5eaa85a669df951c8f4d9",
+    "svgRoot": "<svg preserveAspectRatio=\"none\" overflow=\"visible\" style=\"display: block;\" width=\"59.5083\" height=\"60.8655\" viewBox=\"0 0 59.5083 60.8655\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "cat",
+    "path": "assets/cat.png",
+    "figmaNode": "2413:27266",
+    "contextVariable": "imgPng1",
+    "bytes": 1307475,
+    "sha256": "281a83b8c84c5f1062f5b9f980a1fc501d2a158d52dbe2b97ad6340713ec8782",
+    "width": 1348,
+    "height": 1167,
+    "alpha": true
+  },
+  {
+    "id": "celebrating",
+    "sourceNode": "2379:12487",
+    "path": "assets/celebrating.png",
+    "bytes": 381726,
+    "note": "Original transparent image fill",
+    "sha256": "fe670c361943a80824a12270f65b311b9f04287da9ebc5d0f716594ae4c6a2e8",
+    "width": 640,
+    "height": 640,
+    "alpha": true
+  },
+  {
+    "id": "check",
+    "sourceNode": "2044:10497",
+    "path": "assets/check.svg",
+    "bytes": 965,
+    "note": "Original transparent vector layer, not the component exhibition render",
+    "sha256": "a69555647ac0679c8d5bb9f34b083ddcede129c23873434ebe0f845975fca04c",
+    "svgRoot": "<svg preserveAspectRatio=\"none\" overflow=\"visible\" style=\"display: block;\" width=\"57.9097\" height=\"50.9941\" viewBox=\"0 0 57.9097 50.9941\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "close",
+    "sourceNode": "2344:13833",
+    "path": "assets/close.svg",
+    "bytes": 787,
+    "note": "Original transparent vector layer, not the component exhibition render",
+    "sha256": "3e4c1e9667c647ed996eef564326f07bf70f00ad0934faf7df26dc6a2b4ab9a3",
+    "svgRoot": "<svg preserveAspectRatio=\"none\" overflow=\"visible\" style=\"display: block;\" width=\"54.0007\" height=\"54.0007\" viewBox=\"0 0 54.0007 54.0007\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "cloud",
+    "sourceNode": "2033:6689",
+    "path": "assets/cloud.png",
+    "bytes": 2003667,
+    "note": "Original transparent image fill",
+    "sha256": "1536faa71c920001c9dd47c08b9ec1e79342d65a6c6d174d4f673b7113a7ff3c",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true
+  },
+  {
+    "id": "cube",
+    "sourceNode": "2344:12539",
+    "path": "assets/cube.svg",
+    "bytes": 1055,
+    "note": "Original transparent vector layer, not the component exhibition render",
+    "sha256": "ce3f006fd856bce856c16e9a516a0c267d2a68577950b3040a30b5fab84f4b94",
+    "svgRoot": "<svg preserveAspectRatio=\"none\" overflow=\"visible\" style=\"display: block;\" width=\"59.999\" height=\"59.7932\" viewBox=\"0 0 59.999 59.7932\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "diamond",
+    "sourceNode": "2020:9121",
+    "path": "assets/diamond.svg",
+    "bytes": 2349,
+    "sha256": "707d4c7545e5f57c29218176eeabf0050fce6ab49488907fda716792369842ef",
+    "svgRoot": "<svg width=\"64\" height=\"64\" viewBox=\"0 0 64 64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "directing",
+    "sourceNode": "2379:12484",
+    "path": "assets/directing.png",
+    "bytes": 126473,
+    "note": "Original transparent image fill",
+    "sha256": "202de2f3aa5aa3fda18f36f22655b60a0443b91ac4be094625458700dc7ac7f5",
+    "width": 320,
+    "height": 320,
+    "alpha": true
+  },
+  {
+    "id": "directingAlternate",
+    "figmaNode": "2379:12481",
+    "note": "Same original image as directing, matching current Figma duplicate pose",
+    "path": "assets/directingAlternate.png",
+    "bytes": 126473,
+    "sha256": "202de2f3aa5aa3fda18f36f22655b60a0443b91ac4be094625458700dc7ac7f5",
+    "width": 320,
+    "height": 320,
+    "alpha": true
+  },
+  {
+    "id": "droplet",
+    "sourceNode": "2020:9086",
+    "path": "assets/droplet.svg",
+    "bytes": 2320,
+    "sha256": "46706d2e330874b8b306723c45139fb73e04ec6b90f72ce0f894261a547daddd",
+    "svgRoot": "<svg width=\"64\" height=\"64\" viewBox=\"0 0 64 64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "fantasyIsland",
+    "path": "assets/fantasyIsland.png",
+    "figmaNode": "2571:23497",
+    "contextVariable": "imgArtworkMapIsland4",
+    "bytes": 914592,
+    "sha256": "0a93c2a00ce4e62aa8fd68474454c275c6f2036bad7bf90c2da4b04c61a5836a",
+    "width": 1280,
+    "height": 1280,
+    "alpha": true
+  },
+  {
+    "id": "firstTime",
+    "path": "assets/firstTime.png",
+    "figmaNode": "2571:23498",
+    "contextVariable": "imgArtworkMapChapter2",
+    "bytes": 755521,
+    "sha256": "5138b13fbbc332587b8c63301c3e4ccfa05bfedf71051b4e8778a2f9083b425b",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true
+  },
+  {
+    "id": "flowBackground",
+    "path": "assets/flowBackground.png",
+    "figmaNode": "2064:6613",
+    "imageHash": "1fdefd35793edc348283fce9d02616b7b3c19a76",
+    "bytes": 2014460,
+    "sha256": "a400ac9413058f493e139700594bb9f8a9c33c7c32a19ebec3088e93befc40b7",
+    "width": 1672,
+    "height": 941,
+    "alpha": false
+  },
+  {
+    "id": "forestIsland",
+    "path": "assets/forestIsland.png",
+    "figmaNode": "2571:23497",
+    "contextVariable": "imgArtworkMapIsland2",
+    "bytes": 944910,
+    "sha256": "e40920b851e82fa2a2c5b5a8fa5b9357f3800bb68732034e1b8853707f628d7d",
+    "width": 1280,
+    "height": 1280,
+    "alpha": true
+  },
+  {
+    "id": "freeStory",
+    "path": "assets/freeStory.png",
+    "figmaNode": "2571:23498",
+    "contextVariable": "imgBook",
+    "bytes": 230585,
+    "sha256": "df39e46a5a98e9823a9953e81457e7b7fdcc91af69dbc788aa13553063c4c1ec",
+    "width": 1024,
+    "height": 683,
+    "alpha": true
+  },
+  {
+    "id": "happyDay",
+    "path": "assets/happyDay.png",
+    "figmaNode": "2571:23498",
+    "contextVariable": "imgArtworkMapChapter1",
+    "bytes": 1029899,
+    "sha256": "052e14512f199fb471198770979508db3165fcc89c3ff3e245b7c392541243a3",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true
+  },
+  {
+    "id": "homeBackground",
+    "path": "assets/homeBackground.png",
+    "figmaNode": "2020:4451",
+    "contextVariable": "background",
+    "bytes": 1757413,
+    "sha256": "57bd0108afd5718f447b2359d2f98a86aa1340468bc9db7c64ff0e692dcaa166",
+    "width": 1536,
+    "height": 1024,
+    "alpha": false
+  },
+  {
+    "id": "homeInterior",
+    "path": "assets/homeInterior.png",
+    "figmaNode": "2330:8304",
+    "contextVariable": "imgLayoutImageContainer2",
+    "bytes": 1545908,
+    "sha256": "6eeba24b762a0f2a2ea05e5935c1dcd628fef4f386df52b700216e6293f19277",
+    "width": 1586,
+    "height": 992,
+    "alpha": false
+  },
+  {
+    "id": "idle",
+    "sourceNode": "2379:12483",
+    "path": "assets/idle.png",
+    "bytes": 128048,
+    "note": "Original transparent image fill",
+    "sha256": "bd784f2c74e90c988ac1da3f6c67cb03bb3cc996ed6207aa19ca9fd1dcd5f02e",
+    "width": 320,
+    "height": 320,
+    "alpha": true
+  },
+  {
+    "id": "islandBackground",
+    "path": "assets/islandBackground.png",
+    "figmaNode": "2033:6691",
+    "contextVariable": "background",
+    "bytes": 1581216,
+    "sha256": "228b1d06db8b9dfbf75aa559d3693b5a8a3147132e296c895e2d26e4884d3fee",
+    "width": 1536,
+    "height": 1024,
+    "alpha": false
+  },
+  {
+    "id": "islandPath",
+    "path": "assets/islandPath.svg",
+    "figmaNode": "2571:23497",
+    "contextVariable": "imgVector5Stroke",
+    "bytes": 20844,
+    "sha256": "d266aa30abc9946cfbd0550f728dcd3d16a810cc61f69690ccc61cf1b129aa9c",
+    "svgRoot": "<svg preserveAspectRatio=\"none\" overflow=\"visible\" style=\"display: block;\" width=\"1348.5\" height=\"648\" viewBox=\"0 0 1348.5 648\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "king",
+    "path": "assets/king.png",
+    "figmaNode": "2571:23498",
+    "contextVariable": "imgArtworkMapChapter4",
+    "bytes": 154248,
+    "sha256": "f19392a5d8cd3e9a7970d73a4cfbf732130906b5b8ab5028b64486d9922d501d",
+    "width": 480,
+    "height": 480,
+    "alpha": true
+  },
+  {
+    "id": "kingIsland",
+    "path": "assets/kingIsland.png",
+    "figmaNode": "2571:23497",
+    "contextVariable": "imgIslandSentenceKingStateDefault",
+    "bytes": 1004086,
+    "sha256": "b59fcdefd014a149c62874cbecd4d04eee054a98fb579278be7b071075597390",
+    "width": 1280,
+    "height": 1280,
+    "alpha": true
+  },
+  {
+    "id": "kite",
+    "path": "assets/kite.png",
+    "figmaNode": "2413:27266",
+    "contextVariable": "imgPng2",
+    "bytes": 1783395,
+    "sha256": "3056fb3481cec23cb6b36bb4502758ca099490179f36ac6d5c996bf71e0c1ec9",
+    "width": 1024,
+    "height": 1536,
+    "alpha": true
+  },
+  {
+    "id": "location",
+    "sourceNode": "2353:16167",
+    "path": "assets/location.svg",
+    "bytes": 1257,
+    "note": "Original transparent vector layer, not the component exhibition render",
+    "sha256": "e8f05a7e51521f7b7023872796dfdf699088cd1509f60f4f027329afd57d704a",
+    "svgRoot": "<svg preserveAspectRatio=\"none\" overflow=\"visible\" style=\"display: block;\" width=\"61.8217\" height=\"62.8571\" viewBox=\"0 0 61.8217 62.8571\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "lock",
+    "sourceNode": "2044:11223",
+    "path": "assets/lock.svg",
+    "bytes": 1966,
+    "note": "Original transparent vector layer, not the component exhibition render",
+    "sha256": "ce68a496b2661d81dbdd9accc1dd19c5aa51201f922626da5ab9c3c1f2040b20",
+    "svgRoot": "<svg preserveAspectRatio=\"none\" overflow=\"visible\" style=\"display: block;\" width=\"42.6667\" height=\"64.117\" viewBox=\"0 0 42.6667 64.117\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "logo-part0",
+    "figmaNode": "2340:8210",
+    "note": "Original Figma vector layer; placed using original group geometry",
+    "path": "assets/logo-part0.svg",
+    "bytes": 511790,
+    "sha256": "0db75f03a1344395b3ab98ccf15132225c2868b91b31cd2cd94cf8d6772b752a",
+    "svgRoot": "<svg preserveAspectRatio=\"none\" overflow=\"visible\" style=\"display: block;\" width=\"1106.8\" height=\"447.224\" viewBox=\"0 0 1106.8 447.224\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "logo-part1",
+    "figmaNode": "2340:8210",
+    "note": "Original Figma vector layer; placed using original group geometry",
+    "path": "assets/logo-part1.svg",
+    "bytes": 42799,
+    "sha256": "3d054968f54d204190a62882016a3cbd0de1e78cfd56478e72eb889bc36f53bc",
+    "svgRoot": "<svg preserveAspectRatio=\"none\" overflow=\"visible\" style=\"display: block;\" width=\"1027.89\" height=\"274.182\" viewBox=\"0 0 1027.89 274.182\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "logo-part2",
+    "figmaNode": "2340:8210",
+    "note": "Original Figma vector layer; placed using original group geometry",
+    "path": "assets/logo-part2.svg",
+    "bytes": 100851,
+    "sha256": "672648876fb48c497cda0ae1a2f6c839201868dccfff4d24202c69e82d040629",
+    "svgRoot": "<svg preserveAspectRatio=\"none\" overflow=\"visible\" style=\"display: block;\" width=\"1028\" height=\"274.148\" viewBox=\"0 0 1028 274.148\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "logo-part3",
+    "figmaNode": "2340:8210",
+    "note": "Original Figma vector layer; placed using original group geometry",
+    "path": "assets/logo-part3.svg",
+    "bytes": 18323,
+    "sha256": "87e0a1a2c2ec6d84a2e9fdbfb68f46663d74ef9809ac078b748c4981b6f90eb6",
+    "svgRoot": "<svg preserveAspectRatio=\"none\" overflow=\"visible\" style=\"display: block;\" width=\"1069.06\" height=\"315.285\" viewBox=\"0 0 1069.06 315.285\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "logo-part4",
+    "figmaNode": "2340:8210",
+    "note": "Original Figma vector layer; placed using original group geometry",
+    "path": "assets/logo-part4.svg",
+    "bytes": 18354,
+    "sha256": "aae517f5e9a52ad548f6f43c3162fa5636e41946919a96cbd078ca4ab42ce2ce",
+    "svgRoot": "<svg preserveAspectRatio=\"none\" overflow=\"visible\" style=\"display: block;\" width=\"1069.06\" height=\"315.286\" viewBox=\"0 0 1069.06 315.286\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "logo-part5",
+    "figmaNode": "2340:8210",
+    "note": "Original Figma vector layer; placed using original group geometry",
+    "path": "assets/logo-part5.svg",
+    "bytes": 35674,
+    "sha256": "0d9b3542c85665e778a31eecbd386ebf52f07951f22239b1ffa189f87a6cc6f9",
+    "svgRoot": "<svg preserveAspectRatio=\"none\" overflow=\"visible\" style=\"display: block;\" width=\"644.504\" height=\"140.879\" viewBox=\"0 0 644.504 140.879\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "mic",
+    "sourceNode": "2351:8744",
+    "path": "assets/mic.svg",
+    "bytes": 1658,
+    "note": "Original transparent vector layer, not the component exhibition render",
+    "sha256": "51963aadc7a29d586ba32ffc72e03a4422abf7e5acc5f6b65a3619eeb8b40ce4",
+    "svgRoot": "<svg preserveAspectRatio=\"none\" overflow=\"visible\" style=\"display: block;\" width=\"57.0073\" height=\"62.7907\" viewBox=\"0 0 57.0073 62.7907\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "nervous",
+    "sourceNode": "2379:12482",
+    "path": "assets/nervous.png",
+    "bytes": 122015,
+    "note": "Original transparent image fill",
+    "sha256": "d6bb1a92e735199b8c2d11e104fab17919c4f47ebae677a42e4224f3db43f06a",
+    "width": 320,
+    "height": 320,
+    "alpha": true
+  },
+  {
+    "id": "park",
+    "path": "assets/park.png",
+    "figmaNode": "2330:8304",
+    "contextVariable": "imgLayoutImageContainer",
+    "bytes": 1780364,
+    "sha256": "0ff4ab4adf3dd2cbccdc09b42bed26203823e76b696fc6e2772c53a7bec6e91b",
+    "width": 1586,
+    "height": 992,
+    "alpha": false
+  },
+  {
+    "id": "paw",
+    "sourceNode": "2340:12276",
+    "path": "assets/paw.svg",
+    "bytes": 1969,
+    "note": "Original transparent vector layer, not the component exhibition render",
+    "sha256": "177de291b8035b387acc3f54a06bdcfe1edddad8ffd98e7d27b1385e68720622",
+    "svgRoot": "<svg preserveAspectRatio=\"none\" overflow=\"visible\" style=\"display: block;\" width=\"61.3602\" height=\"54.0892\" viewBox=\"0 0 61.3602 54.0892\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "pen",
+    "sourceNode": "2353:16151",
+    "path": "assets/pen.svg",
+    "bytes": 1209,
+    "note": "Original transparent vector layer, not the component exhibition render",
+    "sha256": "a4883433a3ded4092bc9488ca90b13bf3ebb6e1ad6fb65d151f6d92ed227eba6",
+    "svgRoot": "<svg preserveAspectRatio=\"none\" overflow=\"visible\" style=\"display: block;\" width=\"61.3851\" height=\"61.307\" viewBox=\"0 0 61.3851 61.307\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "people",
+    "sourceNode": "2340:12272",
+    "path": "assets/people.svg",
+    "bytes": 1987,
+    "note": "Original transparent vector layer, not the component exhibition render",
+    "sha256": "5e84c5fcbd9dbdf7a76e59d1d55654561000a0678eb4e6ba5f2cdddee8dd889e",
+    "svgRoot": "<svg preserveAspectRatio=\"none\" overflow=\"visible\" style=\"display: block;\" width=\"59.659\" height=\"64.0049\" viewBox=\"0 0 59.659 64.0049\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "play",
+    "sourceNode": "2009:4470",
+    "path": "assets/play.svg",
+    "bytes": 741,
+    "note": "Original transparent vector layer, not the component exhibition render",
+    "sha256": "afc7670ab96ae743e931cf7bdb5524f1fd36832b9b7d91fa06328ff7d7a1234a",
+    "svgRoot": "<svg preserveAspectRatio=\"none\" overflow=\"visible\" style=\"display: block;\" width=\"44\" height=\"48\" viewBox=\"0 0 44 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "rainbow",
+    "sourceNode": "2336:7587",
+    "path": "assets/rainbow.png",
+    "bytes": 35707,
+    "note": "Original transparent image fill",
+    "sha256": "809ddbef82df7d79a6b4c6cd96ab48d58ed970058789656bde0dde45b6a90737",
+    "width": 183,
+    "height": 114,
+    "alpha": true
+  },
+  {
+    "id": "rainyDay",
+    "path": "assets/rainyDay.png",
+    "figmaNode": "2571:23498",
+    "contextVariable": "imgArtworkMapChapter3",
+    "bytes": 990778,
+    "sha256": "3060b9e5060d79a94a0c8be8f76b718f9a61a57751a798bb6a809735bd6146bd",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true
+  },
+  {
+    "id": "refresh",
+    "sourceNode": "2413:15531",
+    "path": "assets/refresh.svg",
+    "bytes": 2207,
+    "note": "Original transparent vector layer, not the component exhibition render",
+    "sha256": "d0ab2b14225e41ce639e363aca63378b25fda9742d109d64453d51e97c97948d",
+    "svgRoot": "<svg preserveAspectRatio=\"none\" overflow=\"visible\" style=\"display: block;\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "ring",
+    "path": "assets/ring.svg",
+    "figmaNode": "2413:17492",
+    "contextVariable": "imgRing",
+    "bytes": 1853,
+    "sha256": "35941f302e873d0de4878f80f6e7b3e06f91650e4880fd4da487e692af38fc05",
+    "svgRoot": "<svg preserveAspectRatio=\"none\" overflow=\"visible\" style=\"display: block;\" width=\"70.546\" height=\"37.4688\" viewBox=\"0 0 70.546 37.4688\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "riverside",
+    "path": "assets/riverside.png",
+    "figmaNode": "2330:8304",
+    "contextVariable": "imgLayoutImageContainer1",
+    "bytes": 1858246,
+    "sha256": "9b027879f60be7ba4053bf009ada7bd8d60a952bc72c332435a961fe9fe891e5",
+    "width": 1586,
+    "height": 992,
+    "alpha": false
+  },
+  {
+    "id": "school",
+    "path": "assets/school.png",
+    "figmaNode": "2330:8304",
+    "contextVariable": "imgLayoutImageContainer3",
+    "bytes": 1681870,
+    "sha256": "4f89de74773c2522a1e460015494858bc5796adceb4076919752a2d77a47c146",
+    "width": 1586,
+    "height": 992,
+    "alpha": false
+  },
+  {
+    "id": "sign",
+    "sourceNode": "2033:4703",
+    "path": "assets/sign.png",
+    "bytes": 921596,
+    "note": "Original transparent image fill",
+    "sha256": "c6544edf27c698bd6374a3b6a64cf4f4bceeee21c0467316f77361d7ccccc83d",
+    "width": 1321,
+    "height": 1191,
+    "alpha": true
+  },
+  {
+    "id": "smileIsland",
+    "path": "assets/smileIsland.png",
+    "figmaNode": "2571:23497",
+    "contextVariable": "imgArtworkMapIsland1",
+    "bytes": 938712,
+    "sha256": "316439f787c285b0928880d1283585a36f17e714432bacc9175e8c2ee088d2b6",
+    "width": 1280,
+    "height": 1280,
+    "alpha": true
+  },
+  {
+    "id": "sparkles",
+    "sourceNode": "2340:12264",
+    "path": "assets/sparkles.svg",
+    "bytes": 2124,
+    "note": "Original transparent vector layer, not the component exhibition render",
+    "sha256": "89e774325c2b69ee1ec3d8d447dc5fbb6df31883abb08157334ba32e17478fc3",
+    "svgRoot": "<svg preserveAspectRatio=\"none\" overflow=\"visible\" style=\"display: block;\" width=\"62.8831\" height=\"61.8617\" viewBox=\"0 0 62.8831 61.8617\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "stage",
+    "path": "assets/stage.png",
+    "figmaNode": "2413:27266",
+    "contextVariable": "imgA",
+    "bytes": 1876688,
+    "sha256": "9a3112581b18840384f4cdb5b17061fbbef67e9f45c5c6fff02df869f35354f1",
+    "width": 1860,
+    "height": 846,
+    "alpha": false
+  },
+  {
+    "id": "star",
+    "sourceNode": "2020:9096",
+    "path": "assets/star.svg",
+    "bytes": 4732,
+    "sha256": "a86df097d9e3a1a18b67e3ed071a22871598d2f1cac441e268cd78c2d9d9b5e1",
+    "svgRoot": "<svg width=\"64\" height=\"64\" viewBox=\"0 0 64 64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "starDisabled",
+    "sourceNode": "2044:10587",
+    "path": "assets/starDisabled.svg",
+    "bytes": 4732,
+    "sha256": "6c287df151fbac16d7f11bcdffabf35d8e2d394009c7675aedd523470f1b26ca",
+    "svgRoot": "<svg width=\"64\" height=\"64\" viewBox=\"0 0 64 64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "sticker",
+    "sourceNode": "2020:9538",
+    "path": "assets/sticker.svg",
+    "bytes": 10756,
+    "sha256": "51c6410b90b9833f7cdb14b0c51497045aa8a3514c353292c35062dce122be84",
+    "svgRoot": "<svg width=\"64\" height=\"64\" viewBox=\"0 0 64 64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "surprised",
+    "sourceNode": "2379:12489",
+    "path": "assets/surprised.png",
+    "bytes": 130641,
+    "note": "Original transparent image fill",
+    "sha256": "520c7f141902593a71e6db5396b1d4a3678c86e63c3e656e97421df33da87b96",
+    "width": 320,
+    "height": 320,
+    "alpha": true
+  },
+  {
+    "id": "talking",
+    "sourceNode": "2379:12488",
+    "path": "assets/talking.png",
+    "bytes": 385713,
+    "note": "Original transparent image fill",
+    "sha256": "1e75bcbd573710fe90a7f546c6d36456966550dfeb255fcafdbb304cd67ac3d3",
+    "width": 640,
+    "height": 640,
+    "alpha": true
+  },
+  {
+    "id": "thinking",
+    "sourceNode": "2379:12486",
+    "path": "assets/thinking.png",
+    "bytes": 120954,
+    "note": "Original transparent image fill",
+    "sha256": "9fe28227e4a44755e463a4bc0eacb510a0426096e4dac34c8ded6d59940f70af",
+    "width": 320,
+    "height": 320,
+    "alpha": true
+  },
+  {
+    "id": "time",
+    "sourceNode": "2353:16163",
+    "path": "assets/time.svg",
+    "bytes": 3016,
+    "note": "Original transparent vector layer, not the component exhibition render",
+    "sha256": "387bc4a6c10b0f361bced5466da69baf9da5012a5fb060363d9b4084c5077e76",
+    "svgRoot": "<svg preserveAspectRatio=\"none\" overflow=\"visible\" style=\"display: block;\" width=\"63.9548\" height=\"64\" viewBox=\"0 0 63.9548 64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "townBackground",
+    "path": "assets/townBackground.png",
+    "figmaNode": "2040:9114",
+    "contextVariable": "background",
+    "bytes": 1564677,
+    "sha256": "c541e3ae1d22a0f8396ea090c75a4eba7e13afb1ddb6524eb094893113830229",
+    "width": 1536,
+    "height": 1024,
+    "alpha": false
+  },
+  {
+    "id": "townIsland",
+    "path": "assets/townIsland.png",
+    "figmaNode": "2571:23497",
+    "contextVariable": "imgArtworkMapIsland",
+    "bytes": 1111401,
+    "sha256": "0bdef21c05fc2a869b2d26c6507fb038654e667e5c367df4fdbb9b410b502a9a",
+    "width": 1280,
+    "height": 1280,
+    "alpha": true
+  },
+  {
+    "id": "townPath",
+    "path": "assets/townPath.svg",
+    "figmaNode": "2571:23498",
+    "contextVariable": "imgVector6",
+    "bytes": 7724,
+    "sha256": "69c458f46142691d6c44e36591f8409bd99a788df4eb3d1414d8f554cfec1ec8",
+    "svgRoot": "<svg preserveAspectRatio=\"none\" overflow=\"visible\" style=\"display: block;\" width=\"1549\" height=\"438.055\" viewBox=\"0 0 1549 438.055\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "rewardChest",
+    "sourceNode": "2330:7831",
+    "path": "assets/rewardChest.png",
+    "bytes": 4149120,
+    "sha256": "601963b8fd007629ba2a693d30b5fc80923791fb050f5c2b5f1ab0a6b70c12e4",
+    "width": 640,
+    "height": 640,
+    "alpha": false,
+    "figmaNode": "2542:28666",
+    "imageHash": "579f8e450cc7f5e217f1c39651ace6058049693e",
+    "note": "Actual reward animation artwork, separate from the small vector progress icon"
+  },
+  {
+    "id": "tree",
+    "sourceNode": "2340:12292",
+    "path": "assets/tree.svg",
+    "bytes": 1408,
+    "note": "Original transparent vector layer, not the component exhibition render",
+    "sha256": "528d6208ffb191171dba31210f542729b2bb9bc7b6e804a14f589dbd10cf65c2",
+    "svgRoot": "<svg preserveAspectRatio=\"none\" overflow=\"visible\" style=\"display: block;\" width=\"49.1665\" height=\"62.5208\" viewBox=\"0 0 49.1665 62.5208\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "weekend",
+    "path": "assets/weekend.png",
+    "figmaNode": "2571:23498",
+    "contextVariable": "imgArtworkMapChapter",
+    "bytes": 1572601,
+    "sha256": "619e6954133b059dcd1929521cf34c29dbd326df9890bf53b2a3478438e42d82",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true
+  },
+  {
+    "id": "why",
+    "sourceNode": "2353:16231",
+    "path": "assets/why.svg",
+    "bytes": 2076,
+    "note": "Original transparent vector layer, not the component exhibition render",
+    "sha256": "901c472a8204be6bdabb869869136730ecfdc2e213990a7f2e8e0b29b5f19d90",
+    "svgRoot": "<svg preserveAspectRatio=\"none\" overflow=\"visible\" style=\"display: block;\" width=\"54\" height=\"54\" viewBox=\"0 0 54 54\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">"
+  },
+  {
+    "id": "wink",
+    "sourceNode": "2379:12485",
+    "path": "assets/wink.png",
+    "bytes": 126942,
+    "note": "Original transparent image fill",
+    "sha256": "c0b80f1f931bfca6d949bcf07038afd598980d8a3b2898d06a9d5777f8193215",
+    "width": 320,
+    "height": 320,
+    "alpha": true
+  },
+  {
+    "id": "woodBlank",
+    "path": "assets/woodBlank.png",
+    "figmaNode": "2413:17492",
+    "contextVariable": "img2",
+    "bytes": 995778,
+    "sha256": "9008bd5c64c9725cc2ace8fe4fb1cd856dc61893472bc4d3fea6a00d72b3a901",
+    "width": 2080,
+    "height": 505,
+    "alpha": true
+  },
+  {
+    "id": "woodGenerator",
+    "path": "assets/woodGenerator.png",
+    "figmaNode": "2344:13267",
+    "contextVariable": "imgDialogStickerGenerator",
+    "bytes": 1313020,
+    "sha256": "a9c9d540a9e3ba512a6831c0d293a80a09638ecdc5101485797e9b12ed1abb00",
+    "width": 1200,
+    "height": 1132,
+    "alpha": true
+  },
+  {
+    "id": "woodLevel",
+    "path": "assets/woodLevel.png",
+    "figmaNode": "2335:12386",
+    "contextVariable": "imgMapChapterActionPanel",
+    "bytes": 232715,
+    "sha256": "d5a017357c9879dc2e593abaed0483d9235d5fdb82d6253c7afb02f6f4d94f4d",
+    "width": 1024,
+    "height": 225,
+    "alpha": true
+  },
+  {
+    "id": "woodResults",
+    "path": "assets/woodResults.png",
+    "figmaNode": "2594:45691",
+    "contextVariable": "imgArtworkResultWoodPanel",
+    "bytes": 1224371,
+    "sha256": "d310e25ce6b36347ae5cf62640057095c7308e2cb8be75076de88e04a9bbafbd",
+    "width": 1142,
+    "height": 1224,
+    "alpha": true
+  },
+  {
+    "id": "woodSidebar",
+    "path": "assets/woodSidebar.png",
+    "figmaNode": "2351:10399",
+    "contextVariable": "imgNavigationSidebar",
+    "bytes": 1502156,
+    "sha256": "5b8b908926a2280443fcf949711260d508f904f735c06dcc97f50718f39afec7",
+    "width": 1141,
+    "height": 2307,
+    "alpha": true
+  },
+  {
+    "id": "workshopIsland",
+    "path": "assets/workshopIsland.png",
+    "figmaNode": "2571:23497",
+    "contextVariable": "imgArtworkMapIsland3",
+    "bytes": 783446,
+    "sha256": "b29e2404ba2b179a0c3dcfb7a22d946ad969fcedbeee0d0dac7c69dfca9109f0",
+    "width": 1280,
+    "height": 1280,
+    "alpha": true
+  },
+  {
+    "id": "treasureChest",
+    "path": "assets/treasureChest.svg",
+    "figmaNode": "2330:7831",
+    "bytes": 65437,
+    "sha256": "d63256e0196e78dcba4f9701309d0cb5a6dce3685adf0f1e816303c911be363b",
+    "note": "Full original SVG exported without component exhibition background"
+  }
+]
